@@ -1,4 +1,4 @@
-# COFFEEI
+# COFFIE
 
 Este repositório contém um projeto desenvolvido utilizando HTML, CSS e JavaScript. 🚀
 
